@@ -1,0 +1,270 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "translatedText": "bojure",
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "San Jose",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-11T15:02:03.304Z",
+      "notes": "",
+      "position": {
+        "lat": "37.368013256895075",
+        "lng": "-122.03583426122464"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Galapagos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T18:31:43.667Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "40.698651411391516",
+        "lng": "-3.3637993447404484"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Campillo de Ranas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "40.99792215887455",
+        "lng": "-3.38677297332223"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Membrillera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T18:48:46.961Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "40.94800355215041",
+        "lng": "-3.0123422102490465"
+      },
+      "translatedText": "",
+      "id": 98443202
+    },
+    {
+      "cityName": "Almonacid de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T18:52:45.747Z",
+      "notes": "你好",
+      "position": {
+        "lat": "41.39447272449216",
+        "lng": "-1.2989886796035168"
+      },
+      "translatedText": "",
+      "id": 98443203
+    },
+    {
+      "cityName": "Bujalaro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T18:54:58.439Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "40.931730989148406",
+        "lng": "-2.858968249222058"
+      },
+      "translatedText": "",
+      "id": 98443204
+    },
+    {
+      "cityName": "Odon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T18:57:01.707Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "40.91502532246381",
+        "lng": "-1.6073697670409228"
+      },
+      "translatedText": "",
+      "id": 98443205
+    },
+    {
+      "cityName": "Ricla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T18:58:24.583Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "41.55905908766579",
+        "lng": "-1.3868529632263573"
+      },
+      "translatedText": "",
+      "id": 98443206
+    },
+    {
+      "cityName": "Huertahernando",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:01:04.983Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "40.80887107638145",
+        "lng": "-2.2439050931735554"
+      },
+      "translatedText": "",
+      "id": 98443207
+    },
+    {
+      "cityName": "Auzat",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-11T19:03:18.607Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "42.67303894363088",
+        "lng": "1.4033904608594838"
+      },
+      "translatedText": "",
+      "id": 98443208
+    },
+    {
+      "cityName": "Villanua",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:04:58.124Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "42.675106012968804",
+        "lng": "-0.5326662079042112"
+      },
+      "translatedText": "",
+      "id": 98443209
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:05:23.047Z",
+      "notes": "targetText",
+      "position": {
+        "lat": "41.926414091997984",
+        "lng": "-0.7529064272586816"
+      },
+      "translatedText": "",
+      "id": 98443210
+    },
+    {
+      "cityName": "Tauste",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:05:58.982Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "42.00302153593442",
+        "lng": "-1.2367526681702536"
+      },
+      "translatedText": "",
+      "id": 98443211
+    },
+    {
+      "cityName": "Las Pedroneras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:06:31.769Z",
+      "notes": "TargetText",
+      "position": {
+        "lat": "39.439880199228064",
+        "lng": "-2.6862235927985867"
+      },
+      "translatedText": "",
+      "id": 98443212
+    },
+    {
+      "cityName": "Robres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:09:58.537Z",
+      "notes": "translatedText",
+      "position": {
+        "lat": "41.87198338262973",
+        "lng": "-0.44610582245038677"
+      },
+      "translatedText": "",
+      "id": 98443213
+    },
+    {
+      "cityName": "Huerto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:11:36.202Z",
+      "notes": "data.TargetText",
+      "position": {
+        "lat": "41.93793210645994",
+        "lng": "-0.22578657896447757"
+      },
+      "translatedText": "Data.TargetText",
+      "id": 98443214
+    },
+    {
+      "cityName": "La Almolda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T19:11:50.331Z",
+      "notes": "to be or not to be",
+      "position": {
+        "lat": "41.57743217215893",
+        "lng": "-0.18178858371015852"
+      },
+      "translatedText": "生存还是毁灭",
+      "id": 98443215
+    }
+  ]
+}
